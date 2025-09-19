@@ -1,0 +1,18 @@
+﻿  1)1차완성본_VS업데이트후 수정.cpp
+E:\우리엔_2021과제\Code_c++\2)Noise_reduction\(1)Guided_filter\(1)Guided_filter\1)1차완성본_VS업데이트후 수정.cpp(41,9): warning C4244: 'return': 'float'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\우리엔_2021과제\Code_c++\2)Noise_reduction\(1)Guided_filter\(1)Guided_filter\1)1차완성본_VS업데이트후 수정.cpp(73,21): warning C4477: 'sprintf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'std::string'입니다.
+E:\우리엔_2021과제\Code_c++\2)Noise_reduction\(1)Guided_filter\(1)Guided_filter\1)1차완성본_VS업데이트후 수정.cpp(109,21): warning C4477: 'sprintf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'std::string'입니다.
+E:\우리엔_2021과제\Code_c++\2)Noise_reduction\(1)Guided_filter\(1)Guided_filter\1)1차완성본_VS업데이트후 수정.cpp(341,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\우리엔_2021과제\Code_c++\2)Noise_reduction\(1)Guided_filter\(1)Guided_filter\1)1차완성본_VS업데이트후 수정.cpp(347,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\우리엔_2021과제\Code_c++\2)Noise_reduction\(1)Guided_filter\(1)Guided_filter\1)1차완성본_VS업데이트후 수정.cpp(374,98): warning C4244: '=': 'double'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\우리엔_2021과제\Code_c++\2)Noise_reduction\(1)Guided_filter\(1)Guided_filter\1)1차완성본_VS업데이트후 수정.cpp(453,18): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+E:\우리엔_2021과제\Code_c++\2)Noise_reduction\(1)Guided_filter\(1)Guided_filter\1)1차완성본_VS업데이트후 수정.cpp(518,23): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\우리엔_2021과제\Code_c++\2)Noise_reduction\(1)Guided_filter\(1)Guided_filter\1)1차완성본_VS업데이트후 수정.cpp(550,35): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\우리엔_2021과제\Code_c++\2)Noise_reduction\(1)Guided_filter\(1)Guided_filter\1)1차완성본_VS업데이트후 수정.cpp(554,25): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\우리엔_2021과제\Code_c++\2)Noise_reduction\(1)Guided_filter\(1)Guided_filter\1)1차완성본_VS업데이트후 수정.cpp(445,15): warning C4101: 'alpha' :참조되지 않은 지역 변수입니다.
+E:\우리엔_2021과제\Code_c++\2)Noise_reduction\(1)Guided_filter\(1)Guided_filter\1)1차완성본_VS업데이트후 수정.cpp(445,8): warning C4101: 'gamma' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 125 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  (1)Guided_filter.vcxproj -> E:\우리엔_2021과제\Code_c++\2)Noise_reduction\(1)Guided_filter\x64\Release\(1)Guided_filter.exe
